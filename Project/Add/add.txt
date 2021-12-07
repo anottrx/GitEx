@@ -1,0 +1,9 @@
+This is a add function.
+
+func add(a: Int, b: Int) -> Int {
+    return a + b;
+}
+
+func add(a: Double, b: Double) -> Double {
+    return a + b;
+}
