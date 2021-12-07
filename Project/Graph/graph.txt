@@ -6,4 +6,6 @@ x = [a for a in range(11)]
 y = [b for b in range(11)]
 
 plt.plot(x, y)
+plt.xlabel('x')
+plt.ylabel('y')
 plt.show()
