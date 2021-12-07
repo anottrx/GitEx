@@ -1,6 +1,10 @@
 This is a project settings file.
 
 - packages
+    - Add
+    - Divide
+    - Graph
+    - Subtraction
+	- multiply
     -equation
-
 version 0.1.0
