@@ -1,6 +1,7 @@
 This is a project settings file.
 
 - packages
+    - Subtraction
     - Add
     - Divide
 version 0.1.0
