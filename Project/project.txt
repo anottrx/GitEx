@@ -1,5 +1,5 @@
 This is a project settings file.
 
 - packages
-
+	- multiply
 version 0.1.0
