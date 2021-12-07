@@ -1,1 +1,5 @@
-This is a divide file.
+This is a divide function
+
+void divide(int a, int b) {
+    return a/b;
+}
