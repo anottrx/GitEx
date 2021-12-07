@@ -1,9 +1,10 @@
 This is a function multiply
+Complete work!
 
 function int multiply(int a, int b){
-	return a*b;
+	return a * b;
 }
 
 function double multiply(double a, double b){
-	return a*b;
+	return a * b;
 }
