@@ -1,0 +1,5 @@
+This is a project settings file.
+
+- packages
+
+version 0.1.0
