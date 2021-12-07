@@ -2,4 +2,5 @@ This is a project settings file.
 
 - packages
     - Add
+    - Divide
 version 0.1.0
