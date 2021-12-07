@@ -2,4 +2,5 @@ This is a project settings file.
 
 - packages
     - Subtraction
+    - Add
 version 0.1.0
