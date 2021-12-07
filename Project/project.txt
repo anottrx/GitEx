@@ -4,4 +4,5 @@ This is a project settings file.
     - Subtraction
     - Add
     - Divide
+    - Graph
 version 0.1.0
