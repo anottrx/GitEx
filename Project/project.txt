@@ -1,5 +1,6 @@
 This is a project settings file.
 
 - packages
+    -equation
 
 version 0.1.0

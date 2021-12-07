@@ -1,0 +1,6 @@
+This is a function equation
+
+function int equation(int a, int b){
+    int c = 2a +b;
+    return c;
+}
