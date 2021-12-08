@@ -2,5 +2,6 @@ This is a function equation
 
 function int equation(int a, int b){
     int c = 2a +b;
+    int w = 0;
     return c;
 }
